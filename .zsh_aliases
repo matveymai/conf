@@ -1,0 +1,18 @@
+alias t="touch"
+alias p="python"
+alias c="ccat"
+alias ns="nslookup"
+alias ho="host"
+alias mtr="mtr -b"
+alias le="less -N -I"
+alias ncdu="ncdu --color dark"
+
+
+alias tm="tmux new"
+alias tn="tmux new -s"
+alias tl="tmux ls"
+alias tma="tmux a"
+alias ta="tmux a -t"
+alias tk="tmux kill-session -t"
+alias tks="tmux kill-server"
+alias td="tmux detach"
