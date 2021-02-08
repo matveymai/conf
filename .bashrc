@@ -10,7 +10,7 @@ export TERM=xterm-256color
 
 PS1='\[\e[0;34m\]>\[\e[m\] '
 
-shopt -s autocd
+shopt -s -q autocd
 
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
